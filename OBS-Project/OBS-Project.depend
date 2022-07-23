@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652985483 source:c:\users\t0lg4\desktop\Ödev kodlarý\obs-project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
